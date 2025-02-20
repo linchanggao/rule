@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,kaimenlai.com
 DOMAIN-SUFFIX,flow.logitech.io
 DOMAIN-SUFFIX,pdfcandy.com
 DOMAIN-SUFFIX,x6d.com
+DOMAIN-SUFFIX,tools.v1.mk
+DOMAIN-SUFFIX,epg.v1.mk
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu

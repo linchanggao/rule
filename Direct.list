@@ -12,10 +12,10 @@ DOMAIN-SUFFIX,x6d.com
 DOMAIN-SUFFIX,tools.v1.mk
 DOMAIN-SUFFIX,epg.v1.mk
 DOMAIN-SUFFIX,pan.tuio.cc
-DOMAIN-SUFFIX,wetransfer.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,wetransfer
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve

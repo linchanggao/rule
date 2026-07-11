@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,oneplus.com
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100

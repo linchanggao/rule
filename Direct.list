@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,x6d.com
 DOMAIN-SUFFIX,kaimenlai.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,pan.tuio.cc
+DOMAIN-SUFFIX,gh-proxy.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
